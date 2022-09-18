@@ -8,4 +8,6 @@
 //
 // console.log(even_or_odd(0))
 
-
+// function greet(name){
+//     return ('Hello, ' + name + ' ' + 'how are you doing today?')
+// }
